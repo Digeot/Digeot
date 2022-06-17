@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Digeot
 - 👀 I’m interested in Machine Learning, Cyber-security,network and system and sport
 - 🌱 I’m currently learning in system an network technician
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Project on Unreal Engine 4 or 5 just for progress and learn more about this game engine
 - 📫 How to reach me 
 
 <!---
