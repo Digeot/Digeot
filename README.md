@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Cyber-security,network and system and sport
 - 🌱 I’m currently learning in system an network technician
 - 💞️ I’m looking to collaborate on Project on Unreal Engine 4 or 5 just for progress and learn more about this game engine
-- 📫 How to reach me 
+- 📫 How to reach me, By discord if you want Digeot#1040
 
 <!---
 Digeot/Digeot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
